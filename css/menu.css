@@ -1,0 +1,42 @@
+﻿ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-right: 1px solid #bbb;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: #025a00;
+}
+
+.current:hover {
+    background-color: #025a00;
+}
+
+li img {
+    display: block;
+    margin: auto;
+}
+
+#lilphoto {
+    float: right;
+    align-items: center;
+}

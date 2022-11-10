@@ -1,0 +1,39 @@
+﻿body {
+    background-image: url("../images/grass.jpg");
+    margin: 0;
+    padding-bottom: 50px;
+}
+
+h1 {
+    margin-top: 15px;
+    font-size: 3rem;
+}
+
+ol {
+    margin: 0;
+}
+
+h3 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+.edu-row {
+    margin: 100px auto 100px auto;
+    width: 80%;
+    text-align: left;
+}
+
+.edu-lasting, .edu-describe {
+    color: #3e363F;
+    margin-left: 2rem;
+}
+
+.edu-lasting {
+    margin-bottom: 5px;   
+    font-weight: bold;
+}
+
+.edu-describe {
+    margin-top: 0;
+}

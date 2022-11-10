@@ -1,0 +1,33 @@
+﻿body {
+    background-image: url("../images/grass.jpg");
+    margin: 0;
+    padding-bottom: 50px;
+}
+
+h1 {
+    margin-top: 0;
+    font-size: 3rem;
+}
+
+li img {
+    margin-top: 10px;
+}
+
+.skill-row {
+    margin: 100px auto 100px auto;
+    width: 80%;
+    text-align: left;
+}
+
+.code-img {
+    width: 15%;
+    float: left;
+    margin-right: 1.875rem;
+}
+
+.meat-img {
+    width: 15%;
+    float: right;
+    margin-left: 1.875rem;
+}
+
