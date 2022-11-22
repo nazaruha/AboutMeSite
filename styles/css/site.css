@@ -1,0 +1,65 @@
+﻿body {
+    background-image: url("../../images/grass.jpg");
+    margin: 0;
+    text-align: center;
+}
+
+.container {
+    background: rgb(250, 235, 215, .9);
+    margin: 50px auto auto auto;
+    width: 50%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.container img {
+    display: block;
+    margin: 0 auto 0 auto;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+h1, h3{
+    color: #038705;
+}
+
+
+p {
+    color: #038705;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+p a {
+    color: #038705;
+}
+
+p a:hover {
+    color: #04a407;
+}
+
+.footer-container {
+    background: rgb(250, 235, 215, .9);
+    margin-top: 6.25rem;
+    padding: 50px 0 20px;
+    line-height: 2;
+}
+
+.footer-link {
+    color: rgba(161, 96, 15, 0.61);
+    text-decoration: none;
+    font-size: 25px;
+    margin: 0 30px;
+
+}
+
+.footer-link:hover {
+    color: darkorange;
+}
+
+.copyright {
+    margin-bottom: 0;
+}
+

@@ -1,0 +1,18 @@
+﻿body {
+    padding-bottom: 50px;
+}
+
+@import 'genral-content.scss';
+
+h1 {
+    margin-top: 3px;
+    font-size: 3rem;
+}
+
+a {
+    color: rgba(161, 96, 15, 0.61);
+}
+
+a:hover {
+    color: darkorange;
+}

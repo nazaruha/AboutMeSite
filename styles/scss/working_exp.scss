@@ -1,0 +1,37 @@
+﻿body {
+    padding-bottom: 50px;
+}
+
+@import 'genral-content.scss';
+
+h1 {
+    margin-top: 5px;
+    font-size: 3rem;
+}
+
+h3 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+.work-row {
+    margin: 100px auto 100px auto;
+    width: 80%;
+    text-align: left;
+}
+
+.work-position, .work-describe, .work-lasting {
+    margin-left: 2rem;
+}
+
+.work-describe, .work-lasting {
+    color: #3e363F;
+}
+
+.work-lasting {
+    font-weight: bold;
+}
+
+p {
+    margin: 0;
+}
